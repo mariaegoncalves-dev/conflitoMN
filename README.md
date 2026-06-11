@@ -3,4 +3,4 @@ Baladinha e Nathally
 
 // As férias estão chegando!! 🍹❤️
 
-doces = "pudim", "brigadeira", "sorvete"
+doces = "pudim", "brigadeira", "sorvete", "cocada"
